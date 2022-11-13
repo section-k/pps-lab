@@ -1,3 +1,8 @@
+/*               ***Question statement***
+Write a program to input marks of a student for 3 subjects physics , chemistry and mathematics by assuming maximum marks of each subject is 40. 
+Find the percentage obtained by the student.
+	
+*/
 #include <stdio.h>
 int main() {
 	float phy_mark, chem_mark, maths_mark, percent;

@@ -1,3 +1,7 @@
+/*		***Question statement***
+1) Write a program to accept fahrenheit and calculate it's equivalent celcius
+	celcius = (faherenheit -32)*5)/9)
+*/
 #include <stdio.h>
 int main(){
 	float c,f;
