@@ -1,3 +1,6 @@
+/*    			***Question 5***
+WAP to inpput the age of 2 memebers. Find the elder person's age using conditional operator.
+*/
 #include <stdio.h>
 void main (){
 		int x,y,z; 

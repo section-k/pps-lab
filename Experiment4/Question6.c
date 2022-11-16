@@ -1,3 +1,6 @@
+/*						***Question 6***
+WAP to input 3 unequal intefger and find the largest number using conditional operators
+*/
 #include <stdio.h>
 void main (){
 	int x,y,z,big;
