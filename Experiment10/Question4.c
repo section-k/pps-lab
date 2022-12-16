@@ -31,3 +31,14 @@ int main(){
 	}
 	return 0;
 }
+/* o/p
+Enter 1st Matrix(3x4): 1 2 3 4
+5 6 7 8
+9 10 11 12
+Enter 2nd Matrix(3x4): 1 2 3 4    
+5 6 7 8
+9 10 11 12
+Sum of 0 row = 20
+Sum of 1 row = 52
+Sum of 2 row = 84
+*/

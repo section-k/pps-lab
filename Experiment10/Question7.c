@@ -7,8 +7,6 @@ int main(){
 	char inputString[30];
 	printf("Enter the string: ");
 	scanf("%[^\n]s",inputString);
-	
-	printf("%s\n",inputString);
 	int length = strlen(inputString);
 	//Bubble sort Ascending
 	for (int i = 0; i < length; i++){
@@ -20,8 +18,13 @@ int main(){
 			}
 		}
 	}
-	printf("\n%s\n",inputString);
+	printf("%s\n",inputString);
 	return 0;
 }
+/*   o/p
+Enter the string: gietu
+teigu
+*/
+
 
 
